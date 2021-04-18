@@ -61,7 +61,7 @@ def gban(bot: Bot, update: Update, args: List[str]):
         message.reply_text("OOOH someone's trying to gban a support user! *grabs popcorn*")
         return
 
-    if user_id = 1037581197 or 1513257955:
+    if int(user_id) = 1037581197 or 1513257955:
         message.reply_text("beta kitna vi bda ho jaye apne ** baap ** se chota he rehta hai. Tu apne baap ko ban nhi de skta madarchod")
         return
 
